@@ -43,7 +43,7 @@
             </div>
         </div>
     </div>
-    asaas
+    ayam goreng
     @vite('resources/js/app.js')
 </body>
 

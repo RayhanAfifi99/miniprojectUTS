@@ -39,7 +39,7 @@
 
         <div class="col-md-2 offset-md-5 mt-4">
             <div class="d-grid gap-2">
-                <a class="btn btn-dark" href="">Halaman Utama nih</a>
+                <a class="btn btn-dark" href="">Halaman Utama</a>
             </div>
         </div>
     </div>

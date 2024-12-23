@@ -17,7 +17,7 @@
             </tr>
             <tr>
                 <td>Nama</td>
-                <td>M. Rayhan Labib Afifi</td>
+                <td>M. Rayhan Labib afifi</td>
                 <td rowspan="10" align="center">
                     <img src="rayhan.jpg" width="250" height="310"></td>
             </tr>

@@ -18,7 +18,7 @@ class BarangSeeder extends Seeder
                 'namabarang' => 'Iphone',
                 'hargabarang' => '5000000',
                 'deskripsibarang' => 'Alat Elektronik',
-                'id_satuan' => '1'
+                'satuan_id' => '1'
             ],
         ]);
     }
